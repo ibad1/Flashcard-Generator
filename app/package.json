@@ -1,0 +1,11 @@
+{
+  "name": "flash-card-generator",
+  "version": "1.0.0",
+  "description": "flash card generator",
+  "main": "basicCard.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ibad Aslam",
+  "license": "ISC"
+}
